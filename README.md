@@ -11,7 +11,7 @@
 
 ### Server Structure
 
-![Server Structure Diagram](./Resources/Server-Structure.svg)
+![Server Structure Diagram](./Resources/Server-Structure.png)
 
 | Layer | Purpose |
 | ----- | ------- |
